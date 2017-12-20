@@ -1,2 +1,4 @@
 # Twitter-Bot
-this is a node.js and twitter API practice
+This is a node.js and twitter API practice
+
+This bot will make a new tweet every 20s reporting the current location of the spaceship.
