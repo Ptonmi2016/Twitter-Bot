@@ -1,0 +1,15 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Twitterbot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OCWcheng",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
