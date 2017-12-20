@@ -1,18 +1,5 @@
 console.log('server is ready!');
-//var jsonfile = require('jsonfile');
-/*var file = 'http://api.open-notify.org/iss-now.json';
-http.get(file, function(obj){
-  var body = '';
-  obj.on('data', function (chunk) {
-  	body += chunk;
-  });
-  obj.on('end', function(){
-    var massage = JSON.parse(body);
-    console.dir(massage);
-  });
-}).on('error', function(e){
-      console.log("Got an error: ", e);
-});*/
+
 var Twit = require('twit');
 
 var config = require('./config');
